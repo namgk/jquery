@@ -1,17 +1,17 @@
 {
-  "name": "jquery",
-  "title": "jQuery",
-  "description": "JavaScript library for DOM operations",
+  "name": "jquery-lite",
+  "title": "jQuery lite",
+  "description": "Lightweight jquery for nodejs, remove all modules",
   "version": "2.2.2",
   "main": "dist/jquery.js",
   "homepage": "http://jquery.com",
   "author": {
-    "name": "jQuery Foundation and other contributors",
+    "name": "jQuery Foundation and other contributors, Nam Giang",
     "url": "https://github.com/jquery/jquery/blob/2.2.2/AUTHORS.txt"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jquery/jquery.git"
+    "url": "https://github.com/namgk/jquery/jquery.git"
   },
   "keywords": [
     "jquery",
@@ -20,7 +20,7 @@
     "library"
   ],
   "bugs": {
-    "url": "https://github.com/jquery/jquery/issues"
+    "url": "https://github.com/namgk/jquery/issues"
   },
   "license": "MIT",
   "dependencies": {},
